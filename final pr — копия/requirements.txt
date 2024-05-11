@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.17.0
+sqlite3
+requests==2.31.0
+telebot==0.0.5
